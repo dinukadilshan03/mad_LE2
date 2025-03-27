@@ -38,8 +38,6 @@
     <string name="log_out">Log out</string>
 
 
-
-
     <string name="settings_title">Settings</string>
     <string name="general">General</string>
     <string name="account_settings">Account</string>
@@ -51,6 +49,42 @@
     <string name="report_bug">Report a Bug</string>
     <string name="send_feedback">Send Feedback</string>
 
+
+    <string name="message_no_saved_recipes">You haven\'t saved any recipes yet.</string>
+    <string name="content_description_remove_from_saved">Remove from saved recipes</string>
+
+    <string name="recipeName">Recipe Name</string>
+    <string name="recipeDescription">A short description of the recipe.</string>
+
+
+    <string name="title_saved_recipes">Saved Recipes</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="save_recipe">Save recipe</string>
+
+
+    <string name="recipe_name_1">Spaghetti Carbonara</string>
+    <string name="recipe_name_2">Chicken Tikka Masala</string>
+    <string name="recipe_name_3">Mushroom Risotto</string>
+    <string name="recipe_name_4">Beef Stir-Fry</string>
+    <string name="recipe_name_5">Lemon Herb Roasted Salmon</string>
+    <string name="recipe_name_6">Vegetable Curry</string>
+    <string name="recipe_name_7">Greek Salad</string>
+    <string name="recipe_name_8">Beef Bourguignon</string>
+    <string name="recipe_name_10">Chocolate Lava Cake</string>
+
+
+    <string name="recipe_desc_1">Classic Italian pasta dish with eggs, cheese, pancetta, and black pepper.</string>
+    <string name="recipe_desc_2">Popular Indian dish of marinated chicken grilled and served in a spiced tomato sauce.</string>
+    <string name="recipe_desc_3">Creamy Italian rice dish cooked with broth until it reaches a creamy consistency.</string>
+    <string name="recipe_desc_4">Quick and easy dish with tender beef and crisp vegetables in a savory sauce.</string>
+    <string name="recipe_desc_5">Healthy and flavorful salmon baked with lemon, herbs, and garlic.</string>
+    <string name="recipe_desc_6">Aromatic curry with seasonal vegetables in a coconut milk base.</string>
+    <string name="recipe_desc_7">Fresh salad with tomatoes, cucumber, olives, and feta cheese.</string>
+    <string name="recipe_desc_8">French beef stew braised in red wine with mushrooms and onions.</string>
+    <string name="recipe_desc_10">Decadent chocolate cake with a molten center, best served warm.</string>
+    <string name="title_activity_home">home</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 
 
 </resources>
