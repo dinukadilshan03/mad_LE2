@@ -87,6 +87,114 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
 
+    <string name="hello_dinuka">Hello Dinuka</string>
+    <string name="explore_trending_recipes">Explore trending recipes</string>
+    <string name="search_any_recipe">Search Any Recipe..</string>
+    <string name="categories">Categories</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="dessert">Dessert</string>
+    <string name="popular_recipes">Popular Recipes</string>
+    <string name="see_all">See All</string>
+    <string name="recipe_rating">4.8 (1k+ Review)</string>
+    <string name="sesame_garlic_ramen_noodles">Sesame Garlic Ramen Noodles</string>
+    <string name="recipe_time">35 Min</string>
+    <string name="recommended_for_you">Recommended For You</string>
+    <string name="min">Min</string>
+    <string name="japanese_yaki_udon">Baked Ziti</string>
+    <string name="time_25">25 Min</string>
+    <string name="time_30">30 Min</string>
+    <string name="time_20">1 Hr</string>
+    <string name="time_40">50 Min</string>
+    <string name="grilled_chicken_salad">Grilled Chicken</string>
+    <string name="classic_burger">Classic Burger</string>
+    <string name="classic_lasagna">Classic Lasagna</string>
+    <string name="baked_ziti">Baked Ziti</string>
+
+    <string name="kariwari_chicken_curry">Kariwari Chicken Curry</string>
+    <string name="easy">Easy</string>
+    <string name="time_35_mins">35 Mins</string>
+    <string name="ingredients_15">15 Ingredients</string>
+    <string name="recipe_description_full">Karwar is a small coastal town of North Karnataka. Karwar food is based on generous use of coconut.  Karwari chicken curry is cooked in coconut gravy and with use of very less oil. I am sharing Authentic Karwari Recipe. Do try it. You are going to love it.</string>
+    <string name="servings_4">4 Serving</string>
+    <string name="add_to_grocery_list">Add to Grocery list</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="kg_chicken">Chicken</string>
+    <string name="fresh_coconut_grated">Fresh coconut (Grated)</string>
+    <string name="salt">salt</string>
+    <string name="pepper">pepper</string>
+    <string name="parsley">chopped parsley</string>
+
+
+    <string name="Kg">1 Kg</string>
+    <string name="cup">2 Cups</string>
+    <string name="tsp">1 tsp</string>
+    <string name="tsp2">½ tsp</string>
+    <string name="tsp3">2 tbsp</string>
+
+    <string name="nutrition">Nutrition</string>
+    <string name="calories">Calories:</string>
+    <string name="calories_value">200 kcal</string>
+    <string name="protein">Protein:</string>
+    <string name="protein_value">10g</string>
+    <string name="carbs">Carbohydrates:</string>
+    <string name="carbs_value">30g</string>
+    <string name="fats">Fats:</string>
+    <string name="fats_value">15g</string>
+
+
+
+
+    <string name="title_recipe_generation">AI Recipe Generator</string>
+    <string name="hint_ingredients">Enter available ingredients (e.g., chicken, rice, onion)</string>
+    <string name="hint_preferences">Enter your preferences (e.g., vegetarian, Italian, spicy)</string>
+    <string name="button_generate_recipe">Generate Recipes</string>
+    <string name="title_generated_recipes">Generated Recipes:</string>
+    <string name="title_selected_ingredients">Selected Ingredients:</string>
+    <string name="title_selected_preferences">Selected Preferences:</string>
+    <string name="recipe_1_title_placeholder">Spicy Chicken Stir-Fry with Noodles</string>
+    <string name="recipe_1_info_placeholder">A quick and flavorful stir-fry featuring chicken, vegetables, and a spicy sauce, served over noodles.</string>
+    <string name="recipe_2_title_placeholder">Creamy Tomato Pasta with Basil</string>
+    <string name="recipe_2_info_placeholder">A comforting and easy pasta dish made with a creamy tomato sauce and fresh basil.</string>
+    <string name="recipe_3_title_placeholder">Lentil Soup with Crusty Bread</string>
+    <string name="recipe_3_info_placeholder">A hearty and nutritious vegetarian soup packed with lentils and vegetables, perfect with crusty bread.</string>
+    <string name="no_recipes_found">No recipes found based on your input.</string>
+    <string name="ingdnts1">Noodles</string>
+    <string name="ingdnts2">Herbs</string>
+    <string name="ingdnts3">Eggs</string>
+    <string name="prf1">Indian</string>
+    <string name="prf2">Veg</string>
+    <string name="prf3">Spicy</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="AI">AI</string>
+    <string name="profile">Profile</string>
+
+
+    <!-- Onboarding Screen 1 -->
+    <string name="onboarding_title_recipe_suggestions">Smart Recipe Suggestions</string>
+    <string name="onboarding_desc_recipe_suggestions">Simply input or scan the ingredients you have, and the AI will suggest delicious recipes tailored to your needs.</string>
+
+    <!-- Onboarding Screen 2 -->
+    <string name="onboarding_title_meal_planning">Personalized Meal Planning</string>
+    <string name="onboarding_desc_meal_planning">Plan your meals based on dietary preferences, weekly goals, and auto-generated grocery lists.</string>
+
+    <!-- Onboarding Screen 3 -->
+    <string name="onboarding_title_guided_cooking">Step-by-Step Guided Cooking</string>
+    <string name="onboarding_desc_guided_cooking">Follow voice-guided instructions and visual cues while cooking your favorite dishes, with built-in timers for each step.</string>
+
+    <!-- Buttons -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+
+    <!-- Content Descriptions for accessibility -->
+    <string name="desc_recipe_suggestions">Image representing recipe suggestions</string>
+    <string name="desc_meal_planning">Image representing personalized meal planning</string>
+    <string name="desc_guided_cooking">Image representing step-by-step guided cooking</string>
+
 </resources>
 
 
