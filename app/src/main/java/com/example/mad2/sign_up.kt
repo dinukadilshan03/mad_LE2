@@ -1,6 +1,9 @@
 package com.example.mad2
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
+import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -11,10 +14,19 @@ class sign_up : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_sign_up)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+
+
+        val signup = findViewById<Button>(R.id.buttonCreateAccount)
+        val login = findViewById<TextView>(R.id.textViewLoginLink)
+
+        login.setOnClickListener {
+            val intent = Intent(this@sign_up, com.example.mad2.home::class.java)
+            startActivity(intent)
+        }
+
+        signup.setOnClickListener {
+            val intent = Intent(this@sign_up, com.example.mad2.login::class.java)
+            startActivity(intent)
         }
     }
 }

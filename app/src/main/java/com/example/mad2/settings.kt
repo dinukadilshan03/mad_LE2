@@ -1,6 +1,10 @@
 package com.example.mad2
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
+import android.widget.ImageView
+import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -11,10 +15,21 @@ class settings : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_settings)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+
+        val back1 = findViewById<ImageView>(R.id.back11)
+        val profile = findViewById<ImageView>(R.id.pr1)
+
+
+
+        back1.setOnClickListener {
+            val intent = Intent(this@settings, com.example.mad2.profile::class.java)
+            startActivity(intent)
         }
+
+        profile.setOnClickListener {
+            val intent = Intent(this@settings, com.example.mad2.profile::class.java)
+            startActivity(intent)
+        }
+
     }
 }

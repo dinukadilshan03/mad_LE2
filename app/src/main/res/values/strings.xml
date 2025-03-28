@@ -144,8 +144,6 @@
     <string name="fats_value">15g</string>
 
 
-
-
     <string name="title_recipe_generation">AI Recipe Generator</string>
     <string name="hint_ingredients">Enter available ingredients (e.g., chicken, rice, onion)</string>
     <string name="hint_preferences">Enter your preferences (e.g., vegetarian, Italian, spicy)</string>
@@ -187,7 +185,7 @@
 
     <!-- Buttons -->
     <string name="skip">Skip</string>
-    <string name="next">Next</string>
+
     <string name="finish">Finish</string>
 
     <!-- Content Descriptions for accessibility -->
@@ -197,9 +195,19 @@
 
     <string name="onboarding_ai_recipes_title">Get Personalized Recipes!</string>
     <string name="onboarding_ai_recipes_description">Tell us what ingredients you have and your preferences, and our AI will suggest delicious recipes just for you.</string>
-    <string name="skip">Skip</string>
+
     <string name="next">Next</string>
 
+    <string name="onboarding_save_favorites_title">Save Your Favorite Recipes</string>
+    <string name="onboarding_save_favorites_description">Easily save and access your beloved recipes in one convenient place. Never lose a great dish again!</string>
+
+    <string name="onboarding_explore_recipes_title">Explore Trending &amp; Popular Recipes</string>
+    <string name="onboarding_explore_recipes_description">Discover a world of flavors! Find trending recipes and start your cooking journey.</string>
+
+    <string name="getStarted">Get Started</string>
+
+    <string name="noLogin">Dont have an account?</string>
+    <string name="signup1">Sign Up</string>
 </resources>
 
 

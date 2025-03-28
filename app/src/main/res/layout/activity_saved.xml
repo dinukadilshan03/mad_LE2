@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".saved">
@@ -44,7 +44,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc1"
+                    android:src="@drawable/d3"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -106,7 +106,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc2"
+                    android:src="@drawable/d5"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -168,7 +168,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc3"
+                    android:src="@drawable/d2"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -230,7 +230,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc4"
+                    android:src="@drawable/d6"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -292,7 +292,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc5"
+                    android:src="@drawable/d7"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -354,7 +354,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc1"
+                    android:src="@drawable/d8"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -416,7 +416,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc00"
+                    android:src="@drawable/d8"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -465,6 +465,7 @@
                 android:background="?android:attr/listDivider" />
 
             <!-- Recipe Item 8 -->
+
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:id="@+id/recipeItem8"
                 android:layout_width="match_parent"
@@ -478,7 +479,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc7"
+                    android:src="@drawable/d1"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -522,8 +523,8 @@
 
             <View
                 android:id="@+id/divider10"
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:background="?android:attr/listDivider" />
 
             <!-- Recipe Item 10 -->
@@ -540,7 +541,7 @@
                     android:layout_height="96dp"
                     android:contentDescription="@string/recipe_image"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rc6"
+                    android:src="@drawable/d11"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
