@@ -195,6 +195,11 @@
     <string name="desc_meal_planning">Image representing personalized meal planning</string>
     <string name="desc_guided_cooking">Image representing step-by-step guided cooking</string>
 
+    <string name="onboarding_ai_recipes_title">Get Personalized Recipes!</string>
+    <string name="onboarding_ai_recipes_description">Tell us what ingredients you have and your preferences, and our AI will suggest delicious recipes just for you.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
 </resources>
 
 
