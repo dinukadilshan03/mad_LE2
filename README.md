@@ -43,7 +43,7 @@
 
 ## 🖼️ Screenshots
 
-|[Splash](assets/splash.png)|
+|[Splash](assets/)|
 
 ---
 
